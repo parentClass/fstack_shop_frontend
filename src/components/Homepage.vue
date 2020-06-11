@@ -30,7 +30,34 @@
         </p>
         <h1 class="display-1 white--text">
           $.Links
-        </h1>
+        </h1><br/>
+        <ul class="white--text">
+          <li>
+            <a href="https://www.notion.so/Full-stack-developer-test-379a1ca47149466e999d11da56d398bc" target="_blank">
+              Full stack developer test
+            </a>
+          </li>
+          <li>
+            Fstack &middot; Github repositories
+            <ul class="white--text">
+              <li>
+                <a href="https://github.com/parentClass/fstack_shop_seeder" target="_blank">
+                  Seeder script built with python
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/parentClass/fstack_shop_backend" target="_blank">
+                  Backend built with Golang
+                </a>
+              </li>
+              <li>
+                <a href="https://github.com/parentClass/fstack_shop_frontend" target="_blank">
+                  Frontend built with vuejs
+                </a>
+              </li>
+            </ul>
+          </li>
+        </ul>
       </v-col>
     </v-row>
   </v-container>
@@ -48,5 +75,8 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-  /* pass */
+  a {
+    color: white;
+    text-decoration: none;
+  }
 </style>

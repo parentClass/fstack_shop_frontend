@@ -33,7 +33,7 @@ A step by step series of instructions to get this project prepare for launching
 A step by step series of instructions to get this project up and running
 
 1. Go the project directory
-2. Open up a bash or command prompt and start dev server by ```npm run```
+2. Open up a bash or command prompt and start dev server by ```npm start```
 3. Open a browser and visit the stated link in the bash or command prompt
  3.a Link like ```http://localhost:<port>```
 

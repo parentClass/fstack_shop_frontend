@@ -2,9 +2,6 @@
   <v-container class="table_container">
       <v-layout align-center justify-center column>
           <v-flex>
-            <h6 class="display-3 white--text mb-5">
-              Orders
-            </h6>
           </v-flex>
           <v-flex lg8>
               <v-card dark>
